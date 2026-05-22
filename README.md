@@ -1,17 +1,21 @@
-# nalla_nudi
+# Nalla Nudi
 
-A new Flutter project.
+## AI Based Education App
 
-## Getting Started
+Nalla Nudi is a Flutter-based educational mobile application developed using Android Studio.  
+The application uses Generative AI technology to help students learn easily through smart and interactive features.
 
-This project is a starting point for a Flutter application.
+## Features
+- AI based educational support
+- Simple and user-friendly interface
+- Quick learning assistance
+- Mobile learning application
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- Android Studio
+- Generative AI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Objective
+The main objective of this project is to provide smart learning support for students using AI technology.
